@@ -1,0 +1,64 @@
+.body{
+    margin: 0px;
+    padding: 0px;
+    background-color: #292827;
+    height: 500px;
+    color: white; 
+    text-align: center;
+}
+.landing{
+    background-color: burlywood;
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+.home{
+    text-align: center;
+    background-color: white;
+    color: black;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    padding: 5px;
+    border: 2px solid whitesmoke;
+    box-shadow: 3px 3px 5px gray, 3px 3px 5px gray
+
+}
+
+.footer{
+    display: flex;
+    flex-direction: column;
+    background-color: #292827;
+    height: 500px;
+}
+#image0{
+    height: 200px;
+    width: 200px;
+   
+    background-image: url("leonardo-arantes-h9I2gizYLPs-unsplash-removebg-preview\ \(1\).png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#image1{
+    height: 200px;
+    width: 200px;
+    background-image: url("ivana-cajina-7JWXbeBB4gY-unsplash.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#image2{
+    height: 200px;
+    width: 200px;
+    background-image: url("ivana-cajina-7JWXbeBB4gY-unsplash.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#column{
+    float: left;
+    width: 32%;
+}
+#row{
+    display: table;
+    clear: both;
+}
