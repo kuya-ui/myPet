@@ -31,24 +31,24 @@
     height: 500px;
 }
 #image0{
-    height: 50px;
-    width: 50px;
+    height: 100px;
+    width: 100px;
    
-    background-image: url("leonardo-arantes-h9I2gizYLPs-unsplash-removebg-preview\ \(1\).png");
+    background-image: url("/58baf4e203114aaeb16d6fb4926e99f7.png");
     background-repeat: no-repeat;
     background-size: cover;
 }
 #image1{
-    height: 50px;
-    width: 50px;
-    background-image: url("leonardo-arantes-h9I2gizYLPs-unsplash-removebg-preview\ \(1\).png");
+    height: 100px;
+    width: 100px;
+    background-image: url("/eeb0ae6944c7493bb32c56d8e3cf8642.png");
     background-repeat: no-repeat;
     background-size: cover;
 }
 #image2{
-    height: 50px;
-    width: 50px;
-    background-image: url("leonardo-arantes-h9I2gizYLPs-unsplash-removebg-preview\ \(1\).png");
+    height: 100px;
+    width: 100px;
+    background-image: url("/2b89500784464d539313a55bd26fcba7 (1).png");
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -60,7 +60,7 @@
     display: table;
     clear: both;
 }
-#bottom{
+.bottom{
     text-align: center;
     color: white;
 }
