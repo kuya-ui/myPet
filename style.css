@@ -21,8 +21,6 @@
     display: flex;
     justify-content: center;
     padding: 5px;
-    border: 2px solid whitesmoke;
-    box-shadow: 3px 3px 5px gray, 3px 3px 5px gray
 
 }
 
@@ -33,24 +31,24 @@
     height: 500px;
 }
 #image0{
-    height: 200px;
-    width: 200px;
+    height: 50px;
+    width: 50px;
    
     background-image: url("leonardo-arantes-h9I2gizYLPs-unsplash-removebg-preview\ \(1\).png");
     background-repeat: no-repeat;
     background-size: cover;
 }
 #image1{
-    height: 200px;
-    width: 200px;
-    background-image: url("ivana-cajina-7JWXbeBB4gY-unsplash.jpg");
+    height: 50px;
+    width: 50px;
+    background-image: url("leonardo-arantes-h9I2gizYLPs-unsplash-removebg-preview\ \(1\).png");
     background-repeat: no-repeat;
     background-size: cover;
 }
 #image2{
-    height: 200px;
-    width: 200px;
-    background-image: url("ivana-cajina-7JWXbeBB4gY-unsplash.jpg");
+    height: 50px;
+    width: 50px;
+    background-image: url("leonardo-arantes-h9I2gizYLPs-unsplash-removebg-preview\ \(1\).png");
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -62,3 +60,9 @@
     display: table;
     clear: both;
 }
+#bottom{
+    text-align: center;
+    color: white;
+}
+
+
