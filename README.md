@@ -16,5 +16,5 @@ No any bugs.
 ## Support and contact details
 Maxmillan.kuya@student.moringaschool.com
 ### License
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
-Copyright (c) {year} **Maxmillan Kuya**
+*license under the [MIT LICENSE](license.txt)*
+Copyright (c) 2021 **Maxmillan Kuya**
